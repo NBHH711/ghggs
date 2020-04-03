@@ -69,7 +69,7 @@ It's recommended to run DroidSpy behind a reverse proxy such as [NGINX](https://
 
 ## Happy Hacking
 ## Disclaimer
-<b>Linuxndroid Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
+<b>NBHH Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
 DroidSpy is built for both Educational and Internal use ONLY.</b>
 
 <br>
