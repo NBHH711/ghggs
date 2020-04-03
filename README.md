@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://drive.google.com/file/d/117YM1OqvhULChF1jUjf258nclWy2RV45/view?usp=drivesdk" height="60"><br>
+<img src="https://ibb.co/LS6XqGB" height="60"><br>
 A cloud based remote android managment suite, powered by NodeJS
 </p>
 
